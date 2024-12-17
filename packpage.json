@@ -1,0 +1,12 @@
+{
+  "name": "react-router-website",
+  "version": "1.0.0",
+  "description": "Este é um projeto simples de demonstração de como configurar e usar o React Router em uma aplicação React.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
